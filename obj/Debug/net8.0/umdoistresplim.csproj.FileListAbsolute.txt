@@ -1,0 +1,14 @@
+C:\Users\user\umdoistresplim\bin\Debug\net8.0\umdoistresplim.exe
+C:\Users\user\umdoistresplim\bin\Debug\net8.0\umdoistresplim.deps.json
+C:\Users\user\umdoistresplim\bin\Debug\net8.0\umdoistresplim.runtimeconfig.json
+C:\Users\user\umdoistresplim\bin\Debug\net8.0\umdoistresplim.dll
+C:\Users\user\umdoistresplim\bin\Debug\net8.0\umdoistresplim.pdb
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.AssemblyInfoInputs.cache
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.AssemblyInfo.cs
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.csproj.CoreCompileInputs.cache
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.dll
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\refint\umdoistresplim.dll
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.pdb
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\umdoistresplim.genruntimeconfig.cache
+C:\Users\user\umdoistresplim\obj\Debug\net8.0\ref\umdoistresplim.dll
